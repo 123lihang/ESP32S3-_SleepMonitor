@@ -1,0 +1,15 @@
+# ESP-IDF 编译产物
+build/
+sdkconfig
+sdkconfig.old
+\*.bin
+\*.elf
+\*.map
+managed\_components/
+
+# VSCode 配置文件
+.vscode/
+
+# 系统垃圾文件
+.DS\_Store
+Thumbs.db
